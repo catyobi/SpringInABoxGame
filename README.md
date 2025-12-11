@@ -33,7 +33,7 @@ Screenshots are included in the repository under the /Screenshots folder.
 ▶️ Demo Video
 
 The full app demo video is available on YouTube (link above) and is also included locally in this repo inside the /Screenshots folder for easy access.
-https://youtube.com/shorts/BDL97wyVOoc?feature=share
+(https://youtube.com/shorts/MCTveYHdXjk?feature=share)
 ⸻
 
 🛠️ Setup Instructions
