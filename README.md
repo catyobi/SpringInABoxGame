@@ -32,10 +32,8 @@ Screenshots are included in the repository under the /Screenshots folder.
 
 ▶️ Demo Video
 
-A demo video is included in the repo (or listed here once you upload it):
-
-📹 Demo Link: Add your link here (Google Drive / YouTube)
-
+The full app demo video is available on YouTube (link above) and is also included locally in this repo inside the /Screenshots folder for easy access.
+https://youtube.com/shorts/BDL97wyVOoc?feature=share
 ⸻
 
 🛠️ Setup Instructions
